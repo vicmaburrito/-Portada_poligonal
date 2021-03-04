@@ -1,0 +1,94 @@
+.cuadra_trian{
+    border-right: 50px solid #0d2077;
+    border-top: 50px solid #0d2077;
+    border-left: 50px solid #00115c;
+    border-bottom: 50px solid #00115c; 
+}
+.cuadrado-3 {
+    width: 14.4vh;
+    height: 14.4vh; 
+    background: #0d2077;
+}
+.triangulogris {   
+    border-right: 50px solid gray;
+    border-top: 50px solid gray; 
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid transparent; 
+}
+.triangulogrisup {   
+    border-right: 50px solid transparent;
+    border-top: 50px solid gray; 
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid transparent; 
+}
+.triangulogris2 {
+    border-right: 50px solid gray;
+    border-top: 50px solid gray; 
+    border-left: 50px solid gray;
+    border-bottom: 50px solid gray; 
+}
+.trianguloinverso3 {   
+    border-right: 50px solid red;
+    border-top: 50px solid gray; 
+    border-left: 50px solid gray;
+    border-bottom: 50px solid red; 
+}
+.triangulodetrasgris {  
+    border-right: 50px solid #0d2077;
+    border-top: 50px solid gray; 
+    border-left: 50px solid gray;
+    border-bottom: 50px solid #0d2077;  
+}
+.ttttt{  
+    border-right: 50px solid transparent;
+    border-top: 50px solid #0d2077; 
+    border-left: 50px solid #0d2077;
+    border-bottom: 50px solid transparent; 
+}
+.ppppp{ 
+    border-right: 50px solid transparent;
+    border-top: 50px solid #0d2077; 
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid transparent; 
+}
+.triangulo { 
+    border-right: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-left: 50px solid #0d2077;
+    border-bottom: 50px solid #0d2077; 
+}
+.cuadradolasttop{
+    width: 0; 
+    height: 0;    
+    border-right: 50px solid #0d2077;
+    border-top: 50px solid  transparent;
+    border-left: 50px solid  transparent;
+    border-bottom: 50px solid #0d2077; 
+}
+.cuadradolastbottom{
+    width: 0; 
+    height: 0;    
+    border-right: 50px solid #0d2077;
+    border-top: 50px solid #0d2077;
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
+.cuadradolast{
+    width: 14.4vh;
+    height: 14.4vh; 
+    background: transparent;
+}
+.cuadrado-3 blockquote {
+font-size: 10vh;
+color: #fff;
+}
+
+.portada_title {
+    font-size: 4vh;
+}
+.cuadradolasttop2{    
+    border-right: 50px solid #0d2077;
+    border-top: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
